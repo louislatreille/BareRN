@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "315235906465",
+    "project_id": "barern-176802"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315235906465:android:ff215badda12cfed",
+        "android_client_info": {
+          "package_name": "com.barern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315235906465-alvt7a6nbh0fdgcll1cbvcitbe9hd349.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "315235906465-87s8qr8p24hobmt8pql2e50c0430dh9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.barern",
+            "certificate_hash": "cba7fed95f799deeae100b31cf7903797cdac625"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu_iu4yMkrhnaMl2GEV9HUVcMtxIMnlYY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
